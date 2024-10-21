@@ -15,7 +15,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App w-[1280px] mx-auto overflow-y-auto overflow-x-hidden">
+    <div className="App w-[1280px] mx-auto overflow-y-auto overflow-x-hidden ">
       {/* Header fixo */}
       <header className="fixed top-0 mt-[30px] mx-[20px] w-[1240px] h-[41px] bg-gray-900 border-solid border-[1px] border-white text-white z-[5000]" role="banner">
         <Header />
